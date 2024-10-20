@@ -64,7 +64,7 @@ pydantic_core==2.23.4
 pydeck==0.9.1
 pygame==2.6.1
 Pygments==2.18.0
-pypiwin32==223
+
 python-dateutil==2.9.0.post0
 python-dotenv==1.0.1
 pyttsx3==2.90
