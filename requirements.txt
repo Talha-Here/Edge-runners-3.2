@@ -57,7 +57,7 @@ playsound==1.2.2
 propcache==0.2.0
 protobuf==4.25.5
 pyarrow==17.0.0
-PyAudio==0.2.14
+
 pycparser==2.22
 pydantic==2.9.2
 pydantic_core==2.23.4
